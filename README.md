@@ -1,120 +1,76 @@
-::: {align="center"}
-# Hi, I'm Mohammed Hisham 👋
-
-### Full Stack .NET Developer \| Angular \| ASP.NET Core \| SQL Server
-
-Building practical web applications and learning to design reliable,
-maintainable software.
-
-[![Profile
-Views](https://komarev.com/ghpvc/?username=hishamaman068-rgb&label=Profile%20Views&color=2563eb&style=for-the-badge)](https://github.com/hishamaman068-rgb)
-[![GitHub
-followers](https://img.shields.io/github/followers/hishamaman068-rgb?label=Followers&style=for-the-badge&color=2563eb)](https://github.com/hishamaman068-rgb?tab=followers)
-:::👨‍💻 About Me
-- 🇮🇳 Based in India.
-- 💻 Focused on Full Stack Development with Angular and ASP.NET
-  Core.
-- 🔭 Currently developing MediRoute, a smart healthcare and
-  emergency-response platform.
-- 🌱 Learning and improving my skills in C#, ASP.NET Core Web API,
-  Entity Framework Core, SQL Server, Clean Architecture, and unit
-  testing.
-- 🤝 Interested in collaborating on meaningful Angular + .NET
-  projects.
-- 💬 Happy to discuss Angular, C#, ASP.NET Core Web API, SQL Server,
-  EF Core, and REST API development.
-- 📫 Reach me at hishamaman068@gmail.com.
-- ⚡ I enjoy turning real-world problems into practical software
-  solutions.
-🛠️ Tech Stack
-Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap" alt="Frontend technologies" />{=html}
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:161b22,100:1f6feb&height=220&section=header&text=MOHAMMED%20HISHAM&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20.NET%20DEVELOPER&descAlignY=58&descSize=18&animation=fadeIn" alt="Animated profile header" /><a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Angular+%2B+ASP.NET+Core+Developer;Building+RESTful+APIs+and+Web+Applications;Learning%2C+Building%2C+Improving+Every+Day" alt="Typing introduction" />
+</a><p>
+<a href="https://github.com/hishamaman068-rgb"><img src="https://komarev.com/ghpvc/?username=hishamaman068-rgb&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views" /></a>
+<a href="https://github.com/hishamaman068-rgb?tab=followers"><img src="https://img.shields.io/github/followers/hishamaman068-rgb?style=for-the-badge&color=238636&label=FOLLOWERS" alt="Followers" /></a>
 </p>
-Backend
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet" alt="Backend technologies" />{=html}
-</p>
-Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database technologies" />{=html}
-</p>
-Also working with: Microsoft SQL Server, Entity Framework Core,
-LINQ, ADO.NET, REST APIs, JWT authentication, and Clean Architecture.
-Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode,docker" alt="Development tools" />{=html}
-</p>
-Skill icons represent technologies and tools I work with or am
-currently learning. My primary development focus is Angular, C#,
-ASP.NET Core, and Microsoft SQL Server.
 
-🚀 Featured Projects
-1. MediRoute --- Smart Healthcare & Emergency Response Platform
-Status: In development
 
-MediRoute is a full-stack healthcare platform concept focused on
-improving access to healthcare services and coordinating
-emergency-response workflows.
+</div>01 / ABOUT ME
+Name       : Mohammed Hisham
+Role       : Full Stack .NET Developer
+Location   : India
+Frontend   : Angular, TypeScript, JavaScript
+Backend    : C#, ASP.NET Core Web API
+Database   : Microsoft SQL Server, Entity Framework Core
+Focus      : Full-stack applications, REST APIs, clean code
+I enjoy turning real-world problems into practical software solutions. My current focus is building full-stack applications with Angular and ASP.NET Core, developing REST APIs, working with relational databases, and improving my software engineering practices.
+- 🔭 Currently building MediRoute, a smart healthcare and emergency-response platform.
+- 🌱 Improving my skills in ASP.NET Core, C#, EF Core, SQL Server, Clean Architecture and unit testing.
+- 🤝 Interested in collaborating on meaningful Angular + .NET projects.
+- 💬 Ask me about Angular, C#, ASP.NET Core Web API, SQL Server, EF Core and REST APIs.
+- 📫 hishamaman068@gmail.com
+02 / TECH STACK
+<div align="center">FRONTEND
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap" alt="Frontend technologies" />BACKEND
+<img src="https://skillicons.dev/icons?i=cs,dotnet" alt="Backend technologies" />DATABASE & TOOLS
+<img src="https://skillicons.dev/icons?i=mysql,git,github,postman,visualstudio,vscode,docker" alt="Database and tools" /></div>Also working with: Microsoft SQL Server · Entity Framework Core · LINQ · ADO.NET · JWT Authentication · REST APIs · xUnit · Moq
+03 / FEATURED PROJECTS
+<table>
+<tr>
+<td width="50%" valign="top">🏥 MediRoute
+Smart Healthcare & Emergency Response Platform
 
-Planned project areas include: - Hospital and healthcare-facility
-discovery. - Hospital, doctor, and facility information. - Emergency
-request coordination. - Ambulance assignment and tracking workflows. -
-Patient transfer requests and hospital-side coordination. - Role-based
-access for the different platform users.
+<kbd>IN DEVELOPMENT</kbd>
 
-Technology focus: Angular · ASP.NET Core Web API · C# · Entity
-Framework Core · SQL Server
+A full-stack healthcare platform focused on hospital discovery and emergency-response coordination.
+- Hospital and healthcare-facility discovery
+- Emergency request workflows
+- Ambulance assignment and tracking workflows
+- Patient transfer coordination
+Stack: Angular · ASP.NET Core Web API · C# · EF Core · SQL Server
+</td>
+<td width="50%" valign="top">🎮 VASCA
+Gaming E-Commerce Platform
 
-View my GitHub
-repositories
-This project is actively being developed. Features and workflows may
-change as implementation progresses.
+A gaming e-commerce project with product discovery and shopping workflows.
+- Product listing and details
+- Search and navigation
+- Wishlist and shopping cart
+- Checkout and address workflows
+Stack: Angular · TypeScript · ASP.NET Core · SQL Server
+</td>
+</tr>
+</table>MediRoute is actively being developed. Features and workflows may evolve during implementation. Add direct repository links when the repositories are ready to share.
 
-2. VASCA --- Gaming E-Commerce Platform
-A gaming e-commerce frontend project focused on browsing and discovering
-gaming products.
 
-Implemented project areas include: - Product listing and product
-details. - Product search and navigation. - Wishlist and shopping-cart
-workflows. - Checkout and address-form UI.
+04 / CURRENT LEARNING
+[+] ASP.NET Core Web API and application architecture
+[+] Entity Framework Core and database performance
+[+] SQL Server: joins, CTEs, stored procedures and indexing
+[+] Authentication, authorization and JWT
+[+] Unit testing with xUnit and Moq
+[+] Clean Architecture and maintainable code
+05 / GITHUB ANALYTICS
+<div align="center"><img height="175" src="https://github-readme-stats.vercel.app/api?username=hishamaman068-rgb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishamaman068-rgb&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" /><img width="80%" src="https://streak-stats.demolab.com?user=hishamaman068-rgb&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /></div>06 / CONTRIBUTION SNAKE
+<div align="center">
+<!-- Enable the GitHub Actions workflow included in this package to generate this animation. -->
+<img src="https://raw.githubusercontent.com/hishamaman068-rgb/hishamaman068-rgb/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
+</div>07 / CONNECT
+<div align="center">
 
-Technology focus: Angular · TypeScript · HTML · CSS
 
-Explore my GitHub
-repositories
-More Projects
-I'm continuing to build projects to strengthen my frontend, backend,
-database, and software-engineering skills.
 
-Browse all repositories
-→
-📚 Currently Learning
-- C# and .NET: asynchronous programming, generics, reflection, and
-  application design.
-- ASP.NET Core: REST API development, authentication,
-  authorization, and API best practices.
-- Entity Framework Core: relationships, migrations, change
-  tracking, and performance.
-- SQL Server: joins, CTEs, stored procedures, indexes, and
-  database design.
-- Software Engineering: Clean Architecture, unit testing with
-  xUnit, and mocking with Moq.
-📊 GitHub Statistics
-::: {align="center"}
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=hishamaman068-rgb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />`{=html}
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishamaman068-rgb&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />`{=html}
-
-`<img width="75%" src="https://streak-stats.demolab.com?user=hishamaman068-rgb&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />`{=html}
-
-`<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hishamaman068-rgb&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />`{=html}
-:::🤝 Connect With Me
-::: {align="center"}
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hishamaman068@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hishaam.______)
-:::::: {align="center"}
-### 💡 "Keep learning, keep building, and keep improving."
-
-Thanks for visiting my profile!
-:::
+OPEN TO LEARNING · BUILDING · COLLABORATING
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,55:161b22,100:0d1117&height=120&section=footer" alt="Animated footer wave" /></div>
