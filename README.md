@@ -29,3 +29,32 @@ Angular ASP.NET Core SQL Server
 <a href="mailto:hishamaman068@gmail.com"><img src="https://img.shields.io/badge/EMAIL-087f70?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/hishamaman068-rgb"><img src="https://img.shields.io/badge/GITHUB-087f70?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <!-- Add LinkedIn: replace YOUR-LINK and remove the comment marks <a href="https://www.linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LINKEDIN-087f70?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> --> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:063f3b,50:0b2a2e,100:080b12&height=110&section=footer&animation=fadeIn" width="100%" alt="Footer" /> </div>
+
+name: Generate Snake
+ 
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+ 
+permissions:
+  contents: write
+ 
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake-dark.svg?color_snake=#39e6bd&color_dots=#161b22,#063f3b,#087f70,#12b89a,#39e6bd
+ 
+      - uses: crazy-max/ghaction-github-pages@v3.2.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
