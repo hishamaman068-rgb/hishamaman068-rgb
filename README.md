@@ -28,7 +28,7 @@
 <tr>
 <td width="60%" valign="top">
 
-<h3>Hi there, I'm Hisham 👋</h3>
+<h3>Hi there, I'm Hisham </h3>
 
 I'm a **Full Stack Developer** who loves turning ideas into fast, scalable and user-friendly web applications. I enjoy solving real-world problems, designing clean backend systems and building polished frontends that people actually enjoy using.
 
