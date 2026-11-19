@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Mee
 
 <table>
 <tr>
