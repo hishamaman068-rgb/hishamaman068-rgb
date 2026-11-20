@@ -21,8 +21,7 @@
 </p>
 
 ---
-
-## 👨‍💻 About Mee
+ 👨‍💻 About Mee
 
 <table>
 <tr>
