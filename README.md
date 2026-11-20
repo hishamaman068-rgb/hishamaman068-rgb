@@ -45,7 +45,7 @@ public class MohammedHisham : Developer
 </td>
 <td width="40%" valign="top">
 
-### ⚡ Quick Facts
+ ⚡ Quick Facts
 
 - 🔭 Building **MediRoute** — Smart Healthcare & Emergency Response Platform
 - 🎮 Shipped **VASCA** — Gaming CD E-Commerce Platform
