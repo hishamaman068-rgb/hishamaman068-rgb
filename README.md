@@ -61,7 +61,7 @@ public class MohammedHisham : Developer
 
 ---
 
-## 🧰 Tech Stack
+ 🧰 Tech Stack
 
 <h3 align="center">🎨 Frontend</h3>
 <p align="center">
